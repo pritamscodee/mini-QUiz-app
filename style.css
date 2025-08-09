@@ -147,7 +147,13 @@ body{
                 font-size: 15px;
             }
         }
+#btn12,#btn11,#btn13,#lastbtn{
+border-color: #ee5a24;
+color: chartreuse;
+background-color: black;
 
+
+}
 
 
         #container1, #container2, #container3, #container4 {
@@ -172,5 +178,5 @@ body{
             margin-bottom: 20px;
             font-size: 24px;
             font-weight: 600;
-            color: #721c24;
+            color: #04ff4f;
         }
