@@ -10,24 +10,14 @@
     background-color: #25609e;
     border-color: chartreuse;
     box-shadow: 10px 10px 10px chartreuse;
-animation: name 2s ease-in-out infinite;
-    color: white;
+
     transform: translateY(-10px);
 
 }
 
 
 
-@keyframes name {
-    0% {
-        opacity: 0;
-        transform: scale(0.95);
-    }
-    100% {
-        opacity: 1;
-        transform: scale(1);
-    }
-}
+
 
 body{
     
